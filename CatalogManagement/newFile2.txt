@@ -1,1 +1,3 @@
 This is the second new File.
+
+This is the new change during feature-1 creation.
